@@ -16,5 +16,4 @@ public class ExpenseApplication {
 	public ModelMapper modelMapper() {
 		return new ModelMapper();
 	}
-
 }
